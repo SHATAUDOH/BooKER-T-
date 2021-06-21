@@ -1,0 +1,68 @@
+@media(min-width: 768px)  {
+    .news-input{
+        width:50%;
+    }
+}
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+ul.social {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 120px;
+}
+
+ul.social li {
+    float: left;
+    padding: 5px;
+    margin: 2px;
+
+    
+}
+
+.bg-color1 {
+    background-color: #c405a4;
+  
+}
+
+
+.bg-color2 {
+    background-color:#f469a9;
+}
+
+.bg-color3 {
+    background-color: #88bef5;
+}
+
+.bg-color4 {
+    background-color:#f469a9;
+}
+
+.bg-color5 {
+    background-color: #f469a9;
+}
+
+.bg-color6 {
+    background-color: #88bef5;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75)
+}
+.bg-color7 {
+    background-color: #f4fa9c;
+
+}
+.bg-color8 {
+    background-color: #70b3f5;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75)
+
+}
